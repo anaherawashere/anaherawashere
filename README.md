@@ -9,7 +9,8 @@ Kia ora! I'm Anahera Foley-Paama 👋
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,vitest,sqlite,git,tailwind,scss,figma&perline=5)](https://skillicons.dev)
 <br/>
 
-### Learning
+### Currently Learning
+
 [![My Skills](https://skillicons.dev/icons?i=nextjs,c#)](https://skillicons.dev)
 
 ### Socials

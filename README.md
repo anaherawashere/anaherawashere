@@ -11,7 +11,7 @@ Kia ora! I'm Anahera Foley-Paama 👋
 
 ### Currently Learning
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,c#)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=astro,c#)](https://skillicons.dev)
 
 ### Socials
 

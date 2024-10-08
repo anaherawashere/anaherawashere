@@ -1,7 +1,7 @@
 Kia ora! I'm Anahera Foley-Paama 👋
 ========================================================================================================================================
 
-🌍  I am a Full Stack Web Developer based in Auckland, New Zealand.
+🌍  I am a Full Stack Developer based in Auckland, New Zealand.
 <br/>
 
 ### Skills

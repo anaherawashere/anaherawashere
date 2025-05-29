@@ -1,6 +1,6 @@
 ### Kia ora, I'm Anahera 👋
 
-I am a full stack developer based in Auckland, NZ. I like making life easier, one pretty tool at a time.
+I am a web developer based in Auckland, NZ. I like making life easier, one pretty tool at a time.
 
 [`🏠 anahera.co`](https://anahera.co/)
 [`📫 anahera.work@gmail.com`](mailto:anahera.work@gmail.com)

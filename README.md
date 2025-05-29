@@ -1,22 +1,11 @@
-Kia ora! I'm Anahera Foley-Paama 👋
-========================================================================================================================================
+### Kia ora, I'm Anahera 👋
 
-🌍  I am a Full Stack Developer based in Auckland, New Zealand.
-<br/>
+I am a full stack developer based in Auckland, NZ. I like making life easier, one pretty tool at a time.
 
-### Skills
+[`🏠 anahera.co`](https://anahera.co/)
+[`📫 anahera.work@gmail.com`](mailto:anahera.work@gmail.com)
+[`🤓 in/afoleypaama`](https://www.linkedin.com/in/afoleypaama/)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,vitest,sqlite,git,tailwind,scss,figma&perline=5)](https://skillicons.dev)
-<br/>
-
-### Currently Learning
-
-[![My Skills](https://skillicons.dev/icons?i=astro,c#)](https://skillicons.dev)
-
-### Socials
-
-<div id="badges">
-  <a href="https://www.linkedin.com/in/afoleypaama/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+- 🔭 I’m currently working on ReactJS, TypeScript, Nodejs devOps and Jest.
+- 🍔 Dev Academy Grad.
+- ⚡ Currently Working at Westpac NZ.
